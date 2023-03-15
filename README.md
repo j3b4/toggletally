@@ -16,6 +16,7 @@ Long touching a button will open a menu with access to functions such as:
   * archive or delete the tally
   * edit the name/look and feel of a tally
 
-
-## Use Scenarios
-
+# Project Status
+## Pre-project:
+  * learn android development
+  * learning kotlin in https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app#4
